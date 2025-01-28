@@ -8,15 +8,6 @@
     cursor: pointer;
 }
 
-#demos .owl-carousel .item p {
-    background-color: #000095;
-    color: #fff;
-    padding: 5px;
-    padding-left: 8px;
-    width: 75%;
-    border-radius: 5px;
-}
-
 #demos .owl-carousel .item img {
     height: 140px;
 }
